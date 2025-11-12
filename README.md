@@ -8,16 +8,11 @@ It uses Jupyter Notebook for step-by-step implementation and visualization, show
 
 ⚙️ Key Features
 
-Extracts product details: Title, Price, Rating, Review Count, and Availability
-
+#Extracts product details: Title, Price, Rating, Review Count, and Availability
 Performs data cleaning and formatting using Pandas
-
 Implements exception handling for missing or unavailable data
-
 Stores extracted data into a CSV file for analysis
-
 Includes EDA and visualization of product trends (e.g., price vs rating)
-
 Follows ethical scraping principles (with delays and request headers)
 
 🧰 Technologies Used
