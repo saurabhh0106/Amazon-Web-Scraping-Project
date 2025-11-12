@@ -8,7 +8,7 @@ It uses Jupyter Notebook for step-by-step implementation and visualization, show
 
 ⚙️ Key Features
 
-#Extracts product details: Title, Price, Rating, Review Count, and Availability
+Extracts product details: Title, Price, Rating, Review Count, and Availability
 Performs data cleaning and formatting using Pandas
 Implements exception handling for missing or unavailable data
 Stores extracted data into a CSV file for analysis
@@ -18,38 +18,24 @@ Follows ethical scraping principles (with delays and request headers)
 🧰 Technologies Used
 
 Language: Python
-
 Libraries: BeautifulSoup, Requests, Pandas, NumPy, Matplotlib, Seaborn
-
 Environment: Jupyter Notebook
-
 Output Format: CSV Dataset
 
 📊 Workflow
 
 Send requests to Amazon product URLs
-
 Parse HTML using BeautifulSoup
-
 Extract product metadata (title, price, rating, reviews)
-
 Clean and structure data into Pandas DataFrame
-
 Export final dataset to CSV
-
 Perform exploratory data analysis (EDA) with charts and insights
-
-
 
 📈 Insights from EDA
 
-
 Average product price across categories
-
 Correlation between ratings and prices
-
 Brand-wise rating distribution
-
 Product availability trends
 
 
